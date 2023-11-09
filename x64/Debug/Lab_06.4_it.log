@@ -1,0 +1,4 @@
+﻿  Lab_06.4_it.cpp
+C:\Users\Roman\source\repos\Lab_06.4_it\Lab_06.4_it.cpp(43,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roman\source\repos\Lab_06.4_it\Lab_06.4_it.cpp(73,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab_06.4_it.vcxproj -> C:\Users\Roman\source\repos\Lab_06.4_it\x64\Debug\Lab_06.4_it.exe
